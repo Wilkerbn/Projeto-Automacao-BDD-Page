@@ -5,9 +5,9 @@ Funcionalidade: Preenchimento e envio de formulário microsoft forms
 
 Contexto: 
 		Dado que estou na aplicação
-    Quando informo o login "XXXXXXXX"
+    Quando informo o login "666666"
     E seleciono em avançar
-    E a senha "XXXXXXX"
+    E a senha "66666"
     E seleciono em entrar
     E seleciono na opção sim para continuar conectado
 
